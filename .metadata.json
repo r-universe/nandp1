@@ -2,5 +2,9 @@
   {
     "package": "gpbStat",
     "oncran": true
+  },
+  {
+    "package": "nser",
+    "oncran": true
   }
 ]
