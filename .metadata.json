@@ -1,10 +1,10 @@
 [
   {
-    "package": "nser",
+    "package": "gpbStat",
     "oncran": true
   },
   {
-    "package": "gpbStat",
+    "package": "nser",
     "oncran": true
   }
 ]

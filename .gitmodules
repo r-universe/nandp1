@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "nser"]
-	path = nser
-	url = https://github.com/nandp1/nser
-	shallow = true
-	registered = true
 [submodule "gpbStat"]
 	path = gpbStat
 	url = https://github.com/nandp1/gpbstat
+	shallow = true
+	registered = true
+[submodule "nser"]
+	path = nser
+	url = https://github.com/nandp1/nser
 	shallow = true
 	registered = true
