@@ -8,8 +8,3 @@
 	url = https://github.com/nandp1/gpbstat
 	shallow = true
 	registered = true
-[submodule "nser"]
-	path = nser
-	url = https://github.com/nandp1/nser
-	shallow = true
-	registered = true
