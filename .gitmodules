@@ -5,6 +5,3 @@
 [submodule "gpbStat"]
 	path = gpbStat
 	url = https://github.com/nandp1/gpbstat
-[submodule "nser"]
-	path = nser
-	url = https://github.com/nandp1/nser
